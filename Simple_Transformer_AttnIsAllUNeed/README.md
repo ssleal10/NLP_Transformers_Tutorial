@@ -26,7 +26,7 @@ $ python simple_transformer.py
 ```
 ## Reference
 
-**- Repository cloned from: [@graykode](https://github.com/graykode/nlp-tutorial)**
+**- Repository cloned from: [@graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)**
 ## Author
-**[@graykode](https://github.com/graykode/)**
+**[@graykode](https://github.com/graykode)**
 **Tae Hwan Jung(Jeff Jung), Email : nlkey2022@gmail.com**
