@@ -46,7 +46,7 @@ This saves model config and checkpoints to given files, respectively.
 ### Translate
 To translate a sentence in source language to target language:
 ```
-$ python predict.py --source="There is an imbalance here ." --config=checkpoints/example_config.json --checkpoint=checkpoints/example_model.pth
+$ python predict.py --source="There is an imbalance here ." --config=checkpoints/config.json --checkpoint=checkpoints/model.pth
 
 Candidate 0 : Hier fehlt das Gleichgewicht .
 Candidate 1 : Hier fehlt das das Gleichgewicht .
@@ -59,7 +59,7 @@ You can adjust the number of candidates adjusting the corresponding parameter.
 ### Evaluate
 To calculate BLEU score of a trained model:
 ```
-$ python evaluate.py --save_result=logs/example_eval.txt --config=checkpoints/config.json --checkpoint=checkpoints/_model.pth
+$ python evaluate.py --save_result=logs/eval.txt --config=checkpoints/config.json --checkpoint=checkpoints/model.pth
 
 BLEU score : 0.0007947
 ```
