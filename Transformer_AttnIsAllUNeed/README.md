@@ -20,7 +20,7 @@ This repo focuses on clean, readable, and modular implementation of the paper.
 
 ## Usage
 
-This repo comes with example data in `data/` directory. **This data is ready to be used, no need to prepare the dataset.**
+This repo comes with example data in `data/` directory. **The provided data is ready to be used, no need to prepare the dataset.**
 
 The example data is brought from [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py).
 The data consists of parallel source (src) and target (tgt) data for training and validation.
@@ -76,7 +76,7 @@ BLEU score : 0.0007947
 - `prepare_datasets.py` processes data, no need to use this.
 - `train.py` trains model, from here you can play with the parameters.
 - `predict.py` translates given source sentence with a trained model.
-- `evaluate.py` calculates BLEU score of a trained model, see `evaluator.py
+- `evaluate.py` calculates BLEU score of a trained model, see `evaluator`.py
 
 ## Reference
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
