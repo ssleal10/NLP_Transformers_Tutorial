@@ -8,7 +8,7 @@ This repo focuses on a simple implementation of the paper.
 ## Requirements
 - Python 3.7+
 - Latest version of pytorch (https://pytorch.org/: v 1.2.0)
-(Check it from terminal in linux:"python -c "import torch; print(torch.__version__)"
+(Check it from terminal in linux:"python -c "import torch; print(torch._ _version_ _)"
 
 **Versions above this will cause errors.**
 
