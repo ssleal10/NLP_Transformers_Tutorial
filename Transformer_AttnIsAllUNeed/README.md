@@ -10,7 +10,10 @@ This repo focuses on clean, readable, and modular implementation of the paper.
 ## Requirements
 - Python 3.7+
 - Latest version of pytorch (https://pytorch.org/: v 1.2.0)
-(Check it from terminal in linux:"python -c "import torch; print(torch.__version__)"**Versions above this will cause errors.**
+(Check it from terminal in linux:"python -c "import torch; print(torch.__version__)"
+
+**Versions above this will cause errors.**
+
 - [NumPy](http://www.numpy.org/)
 - [NLTK](https://www.nltk.org/)
 - [tqdm](https://github.com/tqdm/tqdm)
@@ -77,6 +80,7 @@ BLEU score : 0.0007947
 
 ## Reference
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
-**- Repository taken from: [@dreamgonfly](https://github.com/dreamgonfly)**
+
+**- Repository cloned from: [@dreamgonfly](https://github.com/dreamgonfly)**
 ## Author
 **[@dreamgonfly](https://github.com/dreamgonfly)**
