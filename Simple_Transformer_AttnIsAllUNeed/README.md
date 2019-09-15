@@ -18,7 +18,8 @@ This repo focuses on a simple implementation of the paper.
 
 ## Usage
 ### Train + Test model
-(Have in mind that in trains and "tests" with the same phrase.
+(Have in mind that in trains and "tests" with the same phrase)
+
 It will depict the attention plot of the given sentence.
 ```
 $ python simple_transformer.py
@@ -28,4 +29,4 @@ $ python simple_transformer.py
 **- Repository cloned from: [@graykode](https://github.com/graykode/nlp-tutorial)**
 ## Author
 **[@graykode](https://github.com/graykode/)**
-**Tae Hwan Jung(Jeff Jung) @graykode, Email : nlkey2022@gmail.com**
+**Tae Hwan Jung(Jeff Jung), Email : nlkey2022@gmail.com**
