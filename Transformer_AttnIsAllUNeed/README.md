@@ -1,6 +1,8 @@
 # Transformer-pytorch
 A PyTorch implementation of Transformer in "Attention is All You Need" (https://arxiv.org/abs/1706.03762)
-Taken from: https://github.com/dreamgonfly/Transformer-pytorch
+
+**Taken from: https://github.com/dreamgonfly/Transformer-pytorch**
+
 This repo focuses on clean, readable, and modular implementation of the paper.
 
 <img width="559" alt="screen shot 2018-09-27 at 1 49 14 pm" src="https://user-images.githubusercontent.com/2340721/46123973-44b08900-c25c-11e8-9468-7aef9e4e3f18.png">
@@ -8,15 +10,14 @@ This repo focuses on clean, readable, and modular implementation of the paper.
 ## Requirements
 - Python 3.7+
 - Latest version of pytorch (https://pytorch.org/: v 1.2.0)
-(Check it from terminal in linux:"python -c "import torch; print(torch.__version__)"
-* Versions above this will cause errors.
+(Check it from terminal in linux:"python -c "import torch; print(torch.__version__)"**Versions above this will cause errors.**
 - [NumPy](http://www.numpy.org/)
 - [NLTK](https://www.nltk.org/)
 - [tqdm](https://github.com/tqdm/tqdm)
 
 ## Usage
 
-This repo comes with example data in `data/` directory. This data is ready to be used no need to prepare the dataset.
+This repo comes with example data in `data/` directory. **This data is ready to be used, no need to prepare the dataset.**
 
 The example data is brought from [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py).
 The data consists of parallel source (src) and target (tgt) data for training and validation.
@@ -76,6 +77,6 @@ BLEU score : 0.0007947
 
 ## Reference
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
-- Repository taken from: [@dreamgonfly](https://github.com/dreamgonfly)
+**- Repository taken from: [@dreamgonfly](https://github.com/dreamgonfly)**
 ## Author
-[@dreamgonfly](https://github.com/dreamgonfly)
+**[@dreamgonfly](https://github.com/dreamgonfly)**
