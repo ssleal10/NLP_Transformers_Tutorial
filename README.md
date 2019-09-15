@@ -7,3 +7,4 @@
 
 3. (**Optional**):
 
+**Further instructions can be found inside the folders**
